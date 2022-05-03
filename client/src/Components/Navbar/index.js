@@ -12,8 +12,8 @@ export function TopNav() {
                 </Nav>
                 <Nav className='offset_right'>
                     <NavDropdown title='Account'>
-                        <NavDropdown.Item href='/'>Sign In</NavDropdown.Item>
-                        <NavDropdown.Item href='/'>Sign Up</NavDropdown.Item>
+                        <NavDropdown.Item href='/signIn'>Sign In</NavDropdown.Item>
+                        <NavDropdown.Item href='/signUp'>Sign Up</NavDropdown.Item>
                         <NavDropdown.Divider />
                         <NavDropdown.Item href='/'>Sign Out</NavDropdown.Item>
                     </NavDropdown>
