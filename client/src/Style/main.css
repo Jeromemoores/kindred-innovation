@@ -8,20 +8,24 @@ p, a, h1, h2, h3, h4, h5, h6 {
     font-family: 'custom_font';
     font-weight: normal;
     font-style: normal;
+    color: black!important;
+}
+a:hover {
+    color: rgb(15, 117, 188)!important;
 }
 .top_navbar {
 
 }
 
 .offset_left {
-    margin-left: 2%;
+    margin-left: 3%;
 }
 
 .offset_right {
-
+    margin-right: 3%;
 }
 .hr_nav {
-    margin: 0 2%;
+    margin: 0 3%;
     height: 2px!important;
     opacity: 100%;
 }
