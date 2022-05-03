@@ -8,7 +8,7 @@ export function TopNav() {
                 <Navbar.Toggle aria-controls='top_navbar'/>
                 <Navbar.Collapse id='top_navbar'>
                     <Nav className='me-auto'>
-                        <Nav.Link href='/'>3D Model</Nav.Link>
+                        <Nav.Link href='/model'>3D Model</Nav.Link>
                         <Nav.Link href='/'>Contact Us</Nav.Link>
                     </Nav>
                     <Nav className='offset_right'>
