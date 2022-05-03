@@ -13,10 +13,6 @@ p, a, h1, h2, h3, h4, h5, h6 {
 a:hover {
     color: rgb(15, 117, 188)!important;
 }
-.top_navbar {
-
-}
-
 .offset_left {
     margin-left: 3%;
 }
@@ -41,8 +37,17 @@ a:hover {
 .middle {
     border-left: 1px solid black;
     border-right: 1px solid black;
-    height: 60vh;
+    height: 65vh;
 }
 .right {
     width: 30%;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
