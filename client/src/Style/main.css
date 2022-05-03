@@ -1,0 +1,27 @@
+body {
+    overflow-y: scroll;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+p, a, h1, h2, h3, h4, h5, h6 {
+    font-family: 'custom_font';
+    font-weight: normal;
+    font-style: normal;
+}
+.top_navbar {
+
+}
+
+.offset_left {
+    margin-left: 2%;
+}
+
+.offset_right {
+
+}
+.hr_nav {
+    margin: 0 2%;
+    height: 2px!important;
+    opacity: 100%;
+}

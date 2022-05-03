@@ -1,0 +1,7 @@
+@font-face {
+    font-family: custom_font;
+    src: url('./fonts/carmen_sans_semibold-webfont.woff') format('woff'),
+         url('./fonts//carmen_sans_semibold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
