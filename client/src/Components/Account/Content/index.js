@@ -19,7 +19,7 @@ export function SignUp() {
                 <Form.Label>Company Affiliated</Form.Label>
                 <Form.Control type='text' placeholder='Enter Company Name'/>
                 <Form.Text className='text-muted'>
-                    Please put the company name you are Affiliated with to be approved faster.
+                    Please put the company name you are affiliated with to be approved faster.
                 </Form.Text>
             </Form.Group>
             <Form.Group className='mb-3' controlId='sucompanyp'>
@@ -28,7 +28,11 @@ export function SignUp() {
             </Form.Group>
             <Form.Group className='mb-3' controlId='supassword'>
                 <Form.Label>Password</Form.Label>
-                <Form.Control type='text' placeholder='Enter Password'/>
+                <Form.Control type='password' placeholder='Enter Password'/>
+            </Form.Group>
+            <Form.Group className='mb-3' controlId='csupassword'>
+                <Form.Label>Confirm Password</Form.Label>
+                <Form.Control type='password' placeholder='Confirm Password' />
             </Form.Group>
             <Button variant='primary' type='submit'>
                 Sign Up
