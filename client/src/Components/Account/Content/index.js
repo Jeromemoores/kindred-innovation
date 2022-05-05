@@ -7,19 +7,22 @@ export function SignUp() {
                 <Form.Label>Email Address</Form.Label>
                 <Form.Control type='text' placeholder='Enter Email'/>
             </Form.Group>
-            <Form.Group className='mb-3' controlId='sufirstname'>
-                <Form.Label>First Name</Form.Label>
-                <Form.Control type='text' placeholder='Enter First Name'/>
-            </Form.Group>
-            <Form.Group className='mb-3' controlId='sulastname'>
-                <Form.Label>Last Name</Form.Label>
-                <Form.Control type='text' placeholder='Enter Last Name'/>
-            </Form.Group>
+            <div className='flex'>
+                <Form.Group className='mb-3' controlId='sufirstname'>
+                    <Form.Label>First Name</Form.Label>
+                    <Form.Control type='text' placeholder='Enter First Name'/>
+                </Form.Group>
+                <Form.Group className='mb-3' controlId='sulastname'>
+                    <Form.Label>Last Name</Form.Label>
+                    <Form.Control type='text' placeholder='Enter Last Name'/>
+                </Form.Group>
+            </div>
             <Form.Group className='mb-3' controlId='sucompany'>
-                <Form.Label>Company Affiliated</Form.Label>
+                <Form.Label>Company</Form.Label>
                 <Form.Control type='text' placeholder='Enter Company Name'/>
                 <Form.Text className='text-muted'>
-                    Please put the company name you are affiliated with to be approved faster.
+                    Please put the company name you are
+                    affiliated with to be approved faster.
                 </Form.Text>
             </Form.Group>
             <Form.Group className='mb-3' controlId='sucompanyp'>
