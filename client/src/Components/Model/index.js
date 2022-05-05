@@ -8,7 +8,7 @@ export function Model() {
     return(
         <div className='model_wrapper'>
             <div className='controls'>
-                <h4>Controls</h4>
+                <h4>Controls<hr className='smol'/></h4>
                 <ol>Rotate: Hold Left Click and Move Mouse</ol>
                 <ol>Move: Hold Right Click and Move Mouse</ol>
                 <ol>Zoom: Hold Middle Mouse Button and Move Mouse or just scroll using your scroll wheel</ol>
@@ -16,7 +16,7 @@ export function Model() {
             <div className='thing'>
                 <STLViewer
                     file={url}
-                    width={1800}
+                    width={1795}
                     height={900}
                     model={url}
                     modelColor='grey'
