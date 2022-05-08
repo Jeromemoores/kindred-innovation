@@ -6,4 +6,4 @@ client/.env.local
 client/.env
 
 client/public/revision2.0.stl
-client/src/Components/Model/revision2.0.stl
+# client/src/Components/Model/revision2.0.stl
