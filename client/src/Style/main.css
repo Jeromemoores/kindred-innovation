@@ -86,7 +86,86 @@ a:hover {
     left: 0;
     width: 100%;
 }
+.thingy2 {
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+}
 .flex {
     display: flex;
     justify-content: space-between;
+}
+.thing_wrapper {
+    margin-top: 10%;
+    margin-left: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.thing_wrapper2 {
+    margin-top: 5%;
+    margin-left: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.thing_left {
+    width: 19%;
+    margin-top: 10%;
+}
+.thing_right2 {
+    width: 19%;
+    margin-top: 10%;
+}
+.thing_hr {
+    width: 30%;
+    height: 2px!important;
+    opacity: 100;
+    color: orangered;
+}
+.thing_right {
+    width: 40%;
+}
+.thing_left2 {
+    width: 40%;
+}
+.thing_top {
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-bottom: 10%;
+}
+.thing_bottom {
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-left: 30%;
+    margin-top: 15%;
+}
+.thing_card1, .thing_card3 {
+    width: 18rem;
+    height: 18rem;
+    border: 1px solid #121212;
+    border-radius: 1%;
+    box-shadow: -50px -50px 5px -30px #121212;
+    background-image: url(../../public/apple-touch-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.thing_card2, .thing_card4 {
+    width: 18rem;
+    height: 18rem;
+    margin-left: 10%;
+    margin-top: -10%;
+    border: 1px solid #121212;
+    border-radius: 1%;
+    box-shadow: -50px -50px 5px -30px #121212;
+    background-image: url(../../public/apple-touch-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.thing_card1 h4, .thing_card2 h4, .thing_card4 h4 {
+    color: rgb(15, 117, 188)!important;
+}
+
+.thing_card1 p, .thing_card2 p, .thing_card4 p {
+    color: rgb(191, 30, 45)!important;
 }
