@@ -109,11 +109,11 @@ a:hover {
 }
 .thing_left {
     width: 19%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 .thing_right2 {
     width: 19%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 .thing_hr {
     width: 30%;
@@ -141,31 +141,31 @@ a:hover {
 .thing_card1, .thing_card3 {
     width: 18rem;
     height: 18rem;
-    border: 1px solid #121212;
-    border-radius: 1%;
-    box-shadow: -50px -50px 5px -30px #121212;
-    background-image: url(../../public/apple-touch-icon.png);
+    /* border: 1px solid #121212; */
+    /* border-radius: 1%; */
+    margin-top: 5%;
+    box-shadow: -50px -50px 20px -30px #121212;
+    /* background-image: url(../../public/apple-touch-icon.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
-
 .thing_card2, .thing_card4 {
     width: 18rem;
     height: 18rem;
     margin-left: 10%;
-    margin-top: -10%;
-    border: 1px solid #121212;
-    border-radius: 1%;
-    box-shadow: -50px -50px 5px -30px #121212;
-    background-image: url(../../public/apple-touch-icon.png);
+    margin-top: -15%;
+    /* border: 1px solid #121212; */
+    /* border-radius: 1%; */
+    box-shadow: -50px -50px 20px -30px #121212;
+    /* background-image: url(../../public/apple-touch-icon.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 
 .thing_card1 h4, .thing_card2 h4, .thing_card4 h4 {
-    color: rgb(15, 117, 188)!important;
+    color: rgb(191, 30, 45)!important;
 }
 
 .thing_card1 p, .thing_card2 p, .thing_card4 p {
-    color: rgb(191, 30, 45)!important;
+    color: rgb(15, 117, 188)!important;
 }

@@ -13,22 +13,22 @@ export const PageContent = () => {
                 <div className='thing_right'>
                     <div className='thing_top'>
                         <div className='thing_card1'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                         <div className='thing_card2'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                     </div>
                     <div className='thing_bottom'>
                         {/* <div className='thing_card3'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div> */}
                         <div className='thing_card4'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                     </div>
                 </div>
@@ -37,22 +37,22 @@ export const PageContent = () => {
                 <div className='thing_left2'>
                     <div className='thing_top'>
                         <div className='thing_card1'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                         <div className='thing_card2'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                     </div>
                     <div className='thing_bottom'>
                         {/* <div className='thing_card3'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div> */}
                         <div className='thing_card4'>
-                            <h4>Title here</h4>
-                            <p>Thing here 2</p>
+                            <h4>Imperdiet massa</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi.</p>
                         </div>
                     </div>
                 </div>
